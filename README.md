@@ -1,5 +1,5 @@
 # Hashtable-Implementation-In-Python
-This is a Python Implementation of HashTable for time Complexity of O(1).
+This is a Python Implementation of HashTable.
 
 In computing, a hash table is a data structure that implements an associative array abstract data type, 
 a structure that can map keys to values. A hash table uses a hash function to compute an index, also called a hash 
